@@ -9,6 +9,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 Below, each term is translated individually in the Gurmukhi script for Punjabi, then transliterated into English for easier reading. Some terms also have an 📌 expanded definition for contextualization or clarifications of the shorter translation. Where appropriate, links 🔗 have been added that offer general explanations or examples where these issues directly effect BIPOC, or specifically South Asians in North America 🌎. 
 
+### [Punjabi Graphic](img/Punjabi.png) | [Punjabi Transliterated Graphic](img/Punjabi%20Transliteration.png) | [Original Graphic](img/Punjabi.png)
+
 ## Overt White Supremacy - ਸ਼ਰੇਆਮ ਗੋਰੇਪਣ ਨੂੰ ਪ੍ਰਧਾਨਤਾ ਦੇਣੀ  - shareyaam gorepaN noo(n) pardhaantaa deNee    
 
 ### 1. Lynching	
@@ -814,8 +816,6 @@ https://www.nytimes.com/2020/07/16/podcasts/reparations-for-aunt-jemima.html) �
 [The sordid history of housing discrimination in America](https://www.vox.com/identities/2019/12/4/20953282/racism-housing-discrimination-keeanga-yamahtta-taylor)
 
 [Real Estate Racism: The History Of Redlining & How It Affects Us Today](https://bobbyberk.com/real-estate-racism-what-is-it-what-we-can-do-about-it/)
-
-### Graphics
 
 ### Updates
 We may occasionally add words, update translations, and make other updates to this page to maintain this reference. 

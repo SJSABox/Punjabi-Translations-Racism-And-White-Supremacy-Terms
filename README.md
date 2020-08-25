@@ -817,10 +817,18 @@ https://www.nytimes.com/2020/07/16/podcasts/reparations-for-aunt-jemima.html) �
 
 [Real Estate Racism: The History Of Redlining & How It Affects Us Today](https://bobbyberk.com/real-estate-racism-what-is-it-what-we-can-do-about-it/)
 
-### Updates
+## Want to Contribute?
+
+See a spelling or syntax error? Want to suggest an alternative translation or offer a more relevant reference resources? We're happy to hear from you! Use the link below to submit a correction or comment.
+
+👉🏿 [Get in Touch!](https://github.com/SJSABox/Punjabi-Translations-Racism-And-White-Supremacy-Terms/issues/new?assignees=&labels=&template=corrections---suggestions.md&title=%5BSuggestion%5D) 👈🏻
+                         
+For more information on contributing to this repository please consult the contribution guidelines.
+
+## Updates
 We may occasionally add words, update translations, and make other updates to this page to maintain this reference. 
 
-### Credit & Use
+## Credit & Use
 These translations are the contribution of Amritpan Kaur (@amritpan).The original graphic is the product of several iterations cited below. The translations, work, and images here can be shared freely, with a link back to this page and credit as following:
 
 Safehouse Progressive Alliance for Nonviolence (2005). Adapted: Ellen Tuzzolo (2016); Mary Julia Cooksey Cordero (2019); The Conscious Kid (2020); Amritpan Kaur, https://github.com/SJSABox (2020)

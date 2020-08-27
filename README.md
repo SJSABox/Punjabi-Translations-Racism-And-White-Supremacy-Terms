@@ -122,7 +122,7 @@ Below, each term is translated individually in the Gurmukhi script for Punjabi, 
 	
 🔗 References:
 
-[When Slang Becomes a Slur]()
+[When Slang Becomes a Slur](https://www.theatlantic.com/entertainment/archive/2014/06/a-linguist-on-why-redskin-is-racist-patent-overturned/373198/)
 
 ### 10. KKK	
 	ਕੇਕੇਕੇ ਸੰਗਠਨ 	
@@ -829,6 +829,6 @@ For more information on contributing to this repository please consult the contr
 We may occasionally add words, update translations, and make other updates to this page to maintain this reference. 
 
 ## Credit & Use
-These translations are the contribution of [Amritpan Kaur](https://www.instagram.com/amritpan/).The original graphic is the product of several iterations cited below. The translations, work, and images here can be shared freely, with a link back to this page and credit as following:
+These translations are the contribution of [Amritpan Kaur](https://www.instagram.com/amritpan/). The original graphic is the product of several iterations cited below. The translations, work, and images here can be shared freely, with a link back to this page and credit as following:
 
 Safehouse Progressive Alliance for Nonviolence (2005). Adapted: Ellen Tuzzolo (2016); Mary Julia Cooksey Cordero (2019); The Conscious Kid (2020); Amritpan Kaur, https://github.com/SJSABox (2020)

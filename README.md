@@ -9,7 +9,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 Below, each term is translated individually in the Gurmukhi script for Punjabi, then transliterated into English for easier reading. Some terms also have an 📌 expanded definition for contextualization or clarifications of the shorter translation. Where appropriate, links 🔗 have been added that offer general explanations or examples where these issues directly effect BIPOC, or specifically South Asians in North America 🌎. 
 
-### [Punjabi Graphic](img/Punjabi.png) | [Punjabi Transliterated Graphic](img/Punjabi%20Transliteration.png) | [Original Graphic](img/Punjabi.png)
+### [Punjabi Graphic](img/Punjabi.png) | [Punjabi Transliterated Graphic](img/Punjabi%20Transliteration.png) | [Original Graphic]()
 
 ## Overt White Supremacy - ਸ਼ਰੇਆਮ ਗੋਰੇਪਣ ਨੂੰ ਪ੍ਰਧਾਨਤਾ ਦੇਣੀ  - shareyaam gorepaN noo(n) pardhaantaa deNee    
 
@@ -138,7 +138,7 @@ Below, each term is translated individually in the Gurmukhi script for Punjabi, 
 
 ["Why we voted for Donald Trump": David Duke explains the white supremacist Charlottesville protests](https://www.vox.com/2017/8/12/16138358/charlottesville-protests-david-duke-kkk)
 
-## Covert White Supremacy - ਅੰਦਰੂਨੀ ਤੌਰ ਤੇ ਗੋਰੇਪਣ ਨੂੰ ਪ੍ਰਧਾਨਤਾ ਦੇਣੀ - andoornee taor te gorepaN noo(n) pardhaantaa deNee  
+## Covert White Supremacy - ਅੰਦਰੂਨੀ ਤੌਰ ਤੇ ਗੋਰੇਪਣ ਨੂੰ ਪ੍ਰਧਾਨਤਾ ਦੇਣੀ - androonee taor te gorepaN noo(n) pardhaantaa deNee  
 
 ### 11. Calling the Police on Black People	
 	ਕਾਲੇ ਲੋਕਾਂ 'ਤੇ ਪੁਲਿਸ ਨੂੰ ਬੁਲਾਉਣਾ	
@@ -438,7 +438,7 @@ https://www.nytimes.com/2020/07/16/podcasts/reparations-for-aunt-jemima.html) �
 [How the 'Karen Meme' Confronts the Violent History of White Womanhood](https://time.com/5857023/karen-meme-history-meaning/)
 
 ### 34. Higher Infant & Maternal Mortality Rate for BIPOC
-	ਬਾਈਪਾਕ (BIPOC) ਲੋਕਾਂ ਵਿਚ ਜਨਮ ਸਮੇ ਮਾਂ ਅਤੇ ਬਚੇ ਦੀ ਮੌਤ ਦੀ ਸੰਖਿਆ ਵਧ ਹੋਣੀ 	
+	ਬਾਈਪਾਕ (BIPOC) ਲੋਕਾਂ ਵਿਚ ਜਨਮ ਸਮੇ ਮਾਂ ਅਤੇ ਬੱਚੇ ਦੀ ਮੌਤ ਦੀ ਸੰਖਿਆ ਵਧ ਹੋਣੀ 	
 	baayeepaak lokaa(n) vich janam same maa(n) ate bache dee maot dee sa(n)Khiya vadh hoNee	
 
 	📌 Expanded Explanation:
@@ -829,6 +829,6 @@ For more information on contributing to this repository please consult the contr
 We may occasionally add words, update translations, and make other updates to this page to maintain this reference. 
 
 ## Credit & Use
-These translations are the contribution of Amritpan Kaur (@amritpan).The original graphic is the product of several iterations cited below. The translations, work, and images here can be shared freely, with a link back to this page and credit as following:
+These translations are the contribution of [Amritpan Kaur](https://www.instagram.com/amritpan/).The original graphic is the product of several iterations cited below. The translations, work, and images here can be shared freely, with a link back to this page and credit as following:
 
 Safehouse Progressive Alliance for Nonviolence (2005). Adapted: Ellen Tuzzolo (2016); Mary Julia Cooksey Cordero (2019); The Conscious Kid (2020); Amritpan Kaur, https://github.com/SJSABox (2020)

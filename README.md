@@ -833,4 +833,4 @@ We may occasionally add words, update translations, and make other updates to th
 ## Credit & Use
 These translations are the contribution of [Amritpan Kaur](https://www.instagram.com/amritpan/). The original graphic is the product of several iterations cited below. The translations, work, and images here can be shared freely, with a link back to this page and credit as following:
 
-Safehouse Progressive Alliance for Nonviolence (2005). Adapted: Ellen Tuzzolo (2016); Mary Julia Cooksey Cordero (2019); The Conscious Kid (2020); Amritpan Kaur, https://github.com/SJSABox (2020)
+Safehouse Progressive Alliance for Nonviolence (2005). Adapted: Ellen Tuzzolo (2016); Mary Julia Cooksey Cordero (2019); The Conscious Kid (2020); Amritpan Kaur, [https://sjsabox.github.io/](https://sjsabox.github.io/) (2020)

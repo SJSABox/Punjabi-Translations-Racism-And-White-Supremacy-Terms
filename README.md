@@ -3,7 +3,7 @@ These are the Punjabi translations for the popular White Supremacy 🔺 graphic 
 
 ### [Punjabi Graphic](img/Punjabi.png) | [Punjabi Transliterated Graphic](img/Punjabi%20Transliteration.png) | [Original Graphic]()
 
-<img src="img/Punjabi.png" height="350"> <img src="img/Punjabi%20Transliteration.png" height="350"> <img src="img/Original.png" height="350">
+<img src="img/Punjabi.png" height="300"> <img src="img/Punjabi%20Transliteration.png" height="300"> <img src="img/Original.png" height="350">
 
 ## Who is this for?
 

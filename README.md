@@ -7,7 +7,7 @@ These are the Punjabi translations for the popular White Supremacy 🔺 graphic 
 
 ## Who is this for?
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
 
 ## Terms, Translations, Transliterations, Expanded Explanations, Reference Links
 
@@ -831,6 +831,6 @@ For more information on contributing to this repository please consult the contr
 We may occasionally add words, update translations, and make other updates to this page to maintain this reference. 
 
 ## Credit & Use
-These translations are the contribution of [Amritpan Kaur](https://www.instagram.com/amritpan/). The original graphic is the product of several iterations cited below. The translations, work, and images here can be shared freely, with a link back to this page and credit as following:
+These translations are the contribution of [Amritpan Kaur](https://www.instagram.com/amritpan/) with support from [RehmaCo](http://instagram.com/rehmaco/) and [Dr. Gyanam Mahajan, Department of Asian Languages & Cultures, UCLA](https://www.alc.ucla.edu/person/gyanam-mahajan/). The original graphic is the product of several iterations cited below. The translations, work, and images here can be shared freely, with a link back to this page and credit as following:
 
 Safehouse Progressive Alliance for Nonviolence (2005). Adapted: Ellen Tuzzolo (2016); Mary Julia Cooksey Cordero (2019); The Conscious Kid (2020); Amritpan Kaur, [https://sjsabox.github.io/](https://sjsabox.github.io/) (2020)

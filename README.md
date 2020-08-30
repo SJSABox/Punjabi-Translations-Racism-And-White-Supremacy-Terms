@@ -1,5 +1,5 @@
 # Anti-Blackness & White Supremacy Terms - Punjabi Translations
-These are the Punjabi translations for the popular White Supremacy 🔺 graphic featuring a set 📑 of 67 terms that describe overt &amp; covert forms of racism. The Punjabi translations are accompanied by their English transliterations, and some handy links to 📰 articles and other 🎥 🎤 🎧 🎨 media that explain or are references for each concept.
+These are the Punjabi translations for the popular White Supremacy 🔺 graphic featuring a set 📑 of 67 terms that describe overt &amp; covert forms of racism. The Punjabi translations are accompanied by their English transliterations, and some handy links to 📰 articles and other 🎥 🎤 🎧 🎨 media that explain or are references for each concept.(For other languages, please visit our [homepage](https://sjsabox.github.io).)
 
 ### [Punjabi Graphic](img/Punjabi.png) | [Punjabi Transliterated Graphic](img/Punjabi%20Transliteration.png) | [Original Graphic](img/Original.png)
 
@@ -7,7 +7,7 @@ These are the Punjabi translations for the popular White Supremacy 🔺 graphic 
 
 ## Who is this for?
 
-Many of us may simply understand racism as singular acts of hate or unkindness between ethnic groups when in reality, racism is a social construct that powers white supremacy via hidden systems of dominance. As we, South Asian Americans, mobilize as active citizens alongside Black Americans against racial injustices, it is important that we arm ourselves, our families, friends, coworkers, and social circles by investigating how white privilege is a legislative, economic, and cultural norm in this country. 
+Many of us may simply understand racism as singular acts of hate or unkindness between ethnic groups when in reality, racism is a social construct that powers white supremacy via hidden systems of dominance. As we, South Asian Americans, mobilize as active citizens alongside Black Americans against racial injustices, it is important that we arm ourselves, our families, friends, coworkers, and social circles by investigating how white privilege is a legislative, economic, and cultural norm in America. 
 
 We made this effort to translate forms of white supremacy into Punjabi to create some language that can help you reach across language and generation gaps and start conversations with people you know who may not have done this work yet. Additionally, we have added article & media links to further contextualize these concepts in the North American setting. Use this resource to educate yourself so that you may educate others.  
 
@@ -836,3 +836,5 @@ We may occasionally add words, update translations, and make other updates to th
 These translations are the contribution of [Amritpan Kaur](https://www.instagram.com/amritpan/) with support from [RehmaCo](http://instagram.com/rehmaco/) and [Dr. Gyanam Mahajan, Department of Asian Languages & Cultures, UCLA](https://www.alc.ucla.edu/person/gyanam-mahajan/). The original graphic is the product of several iterations cited below. The translations, work, and images here can be shared freely, with a link back to this page and credit as following:
 
 Safehouse Progressive Alliance for Nonviolence (2005). Adapted: Ellen Tuzzolo (2016); Mary Julia Cooksey Cordero (2019); The Conscious Kid (2020); Amritpan Kaur, [https://sjsabox.github.io/](https://sjsabox.github.io/) (2020)
+
+Please use the hashtag #SJSAbox when sharing it on social media.

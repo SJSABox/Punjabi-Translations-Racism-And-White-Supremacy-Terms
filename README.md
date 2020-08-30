@@ -1,13 +1,15 @@
 # Anti-Blackness & White Supremacy Terms - Punjabi Translations
 These are the Punjabi translations for the popular White Supremacy 🔺 graphic featuring a set 📑 of 67 terms that describe overt &amp; covert forms of racism. The Punjabi translations are accompanied by their English transliterations, and some handy links to 📰 articles and other 🎥 🎤 🎧 🎨 media that explain or are references for each concept.
 
-### [Punjabi Graphic](img/Punjabi.png) | [Punjabi Transliterated Graphic](img/Punjabi%20Transliteration.png) | [Original Graphic]()
+### [Punjabi Graphic](img/Punjabi.png) | [Punjabi Transliterated Graphic](img/Punjabi%20Transliteration.png) | [Original Graphic](img/Original.png)
 
 <img src="img/Punjabi.png" height="300"> <img src="img/Punjabi%20Transliteration.png" height="300"> <img src="img/Original.png" height="300">
 
 ## Who is this for?
 
+Many of us may simply understand racism as singular acts of hate or unkindness between ethnic groups when in reality, racism is a social construct that powers white supremacy via hidden systems of dominance. As we, South Asian Americans, mobilize as active citizens alongside Black Americans against racial injustices, it is important that we arm ourselves, our families, friends, coworkers, and social circles by investigating how white privilege is a legislative, economic, and cultural norm in this country. 
 
+We made this effort to translate forms of white supremacy into Punjabi to create some language that can help you reach across language and generation gaps and start conversations with people you know who may not have done this work yet. Additionally, we have added article & media links to further contextualize these concepts in the North American setting. Use this resource to educate yourself so that you may educate others.  
 
 ## Terms, Translations, Transliterations, Expanded Explanations, Reference Links
 

@@ -512,16 +512,16 @@ https://www.nytimes.com/2020/07/16/podcasts/reparations-for-aunt-jemima.html) �
 [Confronting racism is not about the needs and feelings of white people](https://www.theguardian.com/commentisfree/2019/mar/28/confronting-racism-is-not-about-the-needs-and-feelings-of-white-people)
 
 ### 40. Prioritizing White Voices as Experts	
-	ਗੋਰੇ ਲੋਕਾਂ ਦੇ ਵਿਚਾਰਾਂ ਨੂੰ ਮਾਹਰ ਹੋਣ ਦੀ ਤਰਜੀਹ ਦੇਣਾ	
-	gore lokaa(n) de vichaaraa(n) noo(n) mahr hoN dee tarjeeh deNaa		
+	ਗੋਰੇ ਲੋਕਾਂ ਦੇ ਵਿਚਾਰਾਂ ਨੂੰ ਮਾਹਰ ਹੋਣ ਦੀ ਤਰਜੀਹ ਦੇਣੀ	
+	gore lokaa(n) de vichaaraa(n) noo(n) mahr hoN dee tarjeeh deNee		
 
 🔗 References:
 
 [Alison Roman, Bon Appétit, and the Global Pantry Problem](https://www.eater.com/2020/5/20/21262304/global-pantry-alison-roman-bon-appetit)
 
 ### 41. Treating Kids of Color As Adults	
-	ਨਸਲੀ ਵਿਤਕਰੇ ਦੇ ਅਧਾਰ ਤੇ ਛੋੋਟੇ ਬੱਚਿਆਂ ਦੀ ਮਾਸੂਮੀਅਤ ਨੂੰ ਦੂਜੇ ਬਚਿੱਆਂ ਦੇ ਬਰਾਬਰ ਨਾ ਸਮਝਣਾ	
-	naslee vitkare de adhaar te choTe bacheyaa(n) dee masoomeeyat noo(n) dooje bacheyaa(n) de baraabar naa samj-Naa		
+	ਨਸਲੀ ਵਿਤਕਰੇ ਦੇ ਅਧਾਰ ਤੇ ਬਾਈਪਾਕ (BIPOC) ਦੇ ਛੋਟੇ ਬਚਿੱਆਂ ਦੀ ਮਾਸੂਮੀਅਤ ਨੂੰ ਦੂਜੇ ਬਚਿੱਆਂ ਦੇ ਬਰਾਬਰ ਨਾ ਸਮਝਣਾ	
+	naslee vitkare de adhaar te BIPOC choTe bacheyaa(n) dee masoomeeyat noo(n) dooje bacheyaa(n) de baraabar naa samj-Naa		
 
 🔗 References:
 
@@ -572,7 +572,7 @@ https://www.nytimes.com/2020/07/16/podcasts/reparations-for-aunt-jemima.html) �
 
 ### 46 Eurocentric Beauty Standards	
 	ਯੂਰਪ ਕੇਂਦ੍ਰਿਤ ਸੁੰਦਰਤਾ ਦਾ ਮਿਆਰ ਅਪਣਉਣਾ	
-	yoorup kendrit su(n)dartaa daa miyaar apaN-aoNaa	
+	yoorup kendrit su(n)dartaa daa miyaar apaN-aaoNaa	
 
 	ਗੋਰਿਆਂ ਵਾਂਗ ਬਣਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਵਿਚ ਰਹਿਣਾ	
 	goriyaa(n) vaa(n)g baNan dee koshish vich rahiNaa
@@ -753,8 +753,8 @@ https://www.nytimes.com/2020/07/16/podcasts/reparations-for-aunt-jemima.html) �
 [Myth of Reverse Racism](https://www.theatlantic.com/education/archive/2017/08/myth-of-reverse-racism/535689/)
 
 ### 61. Paternalism	
-	ਦੁਸਰਿਆਂ ਨੂੰ ਆਪਣੇ ਆਪ ਨਾਲੋਂ ਘਟੀਆ ਸਮਝ ਕੇ ਦਬਾੳਣਾ	
-	dusriyaa(n) noo(n) aapNe aap naaloo(n) gaTeeyaa samaj ke dabaa-oNaa	
+	ਦੂਸਰਿਆਂ ਨੂੰ ਆਪਣੇ ਆਪ ਨਾਲੋਂ ਘਟੀਆ ਸਮਝ ਕੇ ਦਬਾੳਣਾ	
+	doosriyaa(n) noo(n) aapNe aap naaloo(n) ghaTeeyaa samaj ke dabaa-oNaa	
 
 	📌 Expanded Explanation:
 	ਘੱਟ ਸ਼ਕਤੀਸ਼ਾਲੀ ਲੋਕਾਂ ਨਾਲੋਂ ਆਪਣੇ ਨੂੰ ਜਿਆਦਾ ਗਿਆਨ-ਵਾਨ ਸਮਝਣਾ ਤੇ ਉਹਨਾ ਉਤੇ ਸੱਤਾ ਦਾ ਪਰਗਟਾਵਾ ਕਰਨਾ 	

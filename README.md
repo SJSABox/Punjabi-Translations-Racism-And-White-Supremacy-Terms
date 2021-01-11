@@ -11,6 +11,8 @@ Many of us may simply understand racism as singular acts of hate or unkindness b
 
 We made this effort to translate forms of white supremacy into Punjabi to create some language that can help you reach across language and generation gaps and start conversations with people you know who may not have done this work yet. Additionally, we have added article & media links to further contextualize these concepts in the North American setting. Use this resource to educate yourself so that you may educate others.  
 
+👉🏿 [Get in touch with us in discussions.](https://github.com/SJSABox/Urdu-Translations-Racism-And-White-Supremacy-Terms/discussions) 👈🏻
+
 ## Terms, Translations, Transliterations, Expanded Explanations, Reference Links
 
 Below, each term is translated individually in the Gurmukhi script for Punjabi, then transliterated into English for easier reading. Some terms also have an 📌 expanded definition for contextualization or clarifications of the shorter translation. Where appropriate, links 🔗 have been added that offer general explanations or examples where these issues directly effect BIPOC, or specifically South Asians in North America 🌎. 
@@ -825,7 +827,9 @@ https://www.nytimes.com/2020/07/16/podcasts/reparations-for-aunt-jemima.html) �
 
 See a spelling or syntax error? Want to suggest an alternative translation or offer a more relevant reference resources? We're happy to hear from you! Use the link below to submit a correction or comment.
 
-👉🏿 [Get in Touch!](https://github.com/SJSABox/Punjabi-Translations-Racism-And-White-Supremacy-Terms/issues/new?assignees=&labels=&template=corrections---suggestions.md&title=%5BSuggestion%5D) 👈🏻
+👉🏿 [Get in touch or start a discussion. ](https://github.com/SJSABox/Urdu-Translations-Racism-And-White-Supremacy-Terms/discussions) 👈🏻
+
+👉🏿 [Contribute or submit a correction!](https://github.com/SJSABox/Punjabi-Translations-Racism-And-White-Supremacy-Terms/issues/new?assignees=&labels=&template=corrections---suggestions.md&title=%5BSuggestion%5D) 👈🏻
                          
 For more information on contributing to this repository please consult the contribution guidelines.
 
